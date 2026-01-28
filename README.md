@@ -6,6 +6,8 @@ A full-stack recruitment platform that connects job applicants with companies, b
 
 **Production URL:** http://recruit-me3.s3-website-us-east-1.amazonaws.com/
 
+_This URL is inactive due to it being very costly to maintain on AWS_
+
 ## Overview
 
 Recruit.me is a comprehensive job recruitment platform that facilitates the hiring process between applicants and companies. The platform supports three user types:
